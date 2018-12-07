@@ -1,0 +1,6 @@
+Euler Circuit: ABCDBEDFECA
+Process finished with exit code 0
+
+Largest Euler subset: 5
+
+Process finished with exit code 0
